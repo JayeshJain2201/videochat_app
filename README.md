@@ -1,2 +1,1 @@
-# videochat_app
-Uses OpenCV and Python socket programming
+# live-video-streaming-with-python-and-cv2
